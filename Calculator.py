@@ -17,7 +17,7 @@ def div(x, y):
 
 print("Please select operation -\n"
       "1. Add\n"
-      "2.ß Subtract\n"
+      "2. Subtract\n"
       "3. Multiply\n"
       "4. Divide\n")
 
